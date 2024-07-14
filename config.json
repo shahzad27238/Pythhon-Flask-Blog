@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "Reliance Blog",
+    "tag_line": "A Blog liked by the Jio users",
+    "gmail-user":"shahzad27238@gmail.com",
+    "gmail-password":"hxkj wobq uuge ssdg",
+    "about_text": "Hi my name is Shahzad and I create programming tutorials and I am a good boy",
+    "no_of_posts": 2,
+    "login_image":"login.svg",
+    "admin_user":"chshahzad",
+    "admin_password": "shahzad",
+    "upload_location":"C:\\Users\\HC\\PycharmProjects\\Flask-tut\\static"
+  }
+
+}
